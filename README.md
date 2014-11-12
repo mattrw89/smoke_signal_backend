@@ -5,6 +5,7 @@ smoke_signal_backend
 ### What is Smoke Signal?
 
 Smoke Signal (name pending) does several things:
+
 1. Records state (can setup multiple variables)
   * Boolean values (can label the value, assign meaning to true/false)
   * A string value
