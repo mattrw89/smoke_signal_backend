@@ -10,6 +10,7 @@ Smoke Signal (name pending) does several things:
   * A string value
   * An integer
   * You can come up with more...
+
 2. Shares state with others (Think of being able to send a URL to someone else and them load the state into their app)
 3. Allows you to read/write the others state variables
 4. Notifies you (and those that it is shared with) when state changes
